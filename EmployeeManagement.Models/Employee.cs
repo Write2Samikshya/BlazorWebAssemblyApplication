@@ -9,7 +9,7 @@ namespace EmployeeManagement.Models
         public int EmployeeID { get; set; }
         public string EmpName { get; set; }
 
-        public Department Department { get; set; }
+        public int DepartmentID { get; set; }
 
         public Gender Gender { get; set; }
 
