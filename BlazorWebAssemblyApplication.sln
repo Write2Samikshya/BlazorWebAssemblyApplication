@@ -3,12 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssembly_A_Trial.Server", "BlazorWebAssembly_A_Trial\Server\BlazorWebAssembly_A_Trial.Server.csproj", "{B7F00C9D-ACF9-456D-A538-5304E866A675}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssembly_A_Trial.Client", "BlazorWebAssembly_A_Trial\Client\BlazorWebAssembly_A_Trial.Client.csproj", "{83F9A168-F8CB-4809-A4D0-D52F31A2586E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssembly_A_Trial.Shared", "BlazorWebAssembly_A_Trial\Shared\BlazorWebAssembly_A_Trial.Shared.csproj", "{96B7DC0A-802D-40DC-A8D9-41D56591B52C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorService", "BlazorService\BlazorService.csproj", "{B0E04951-581D-43D6-A120-610BC8F9E334}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Models", "EmployeeManagement.Models\EmployeeManagement.Models.csproj", "{59D52583-FD23-4BA4-A11A-6F2206937310}"
@@ -19,18 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B7F00C9D-ACF9-456D-A538-5304E866A675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7F00C9D-ACF9-456D-A538-5304E866A675}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7F00C9D-ACF9-456D-A538-5304E866A675}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7F00C9D-ACF9-456D-A538-5304E866A675}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83F9A168-F8CB-4809-A4D0-D52F31A2586E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83F9A168-F8CB-4809-A4D0-D52F31A2586E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83F9A168-F8CB-4809-A4D0-D52F31A2586E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83F9A168-F8CB-4809-A4D0-D52F31A2586E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{96B7DC0A-802D-40DC-A8D9-41D56591B52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96B7DC0A-802D-40DC-A8D9-41D56591B52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96B7DC0A-802D-40DC-A8D9-41D56591B52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96B7DC0A-802D-40DC-A8D9-41D56591B52C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B0E04951-581D-43D6-A120-610BC8F9E334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B0E04951-581D-43D6-A120-610BC8F9E334}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0E04951-581D-43D6-A120-610BC8F9E334}.Release|Any CPU.ActiveCfg = Release|Any CPU
