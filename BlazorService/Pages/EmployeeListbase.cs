@@ -27,7 +27,7 @@ namespace BlazorService.Pages
                 Email="Samu@gmail.com",
                 DateofBirth=new DateTime(2020,1,1),
                 Gender=Gender.Female,
-                Department=new Department { DepartmentID=11,DepartmentName="IT"},
+                DepartmentID = 111,
                 Photopath="Images/flower1.jpg"
             };
 
@@ -38,7 +38,7 @@ namespace BlazorService.Pages
                 Email = "Samu2@gmail.com",
                 DateofBirth = new DateTime(2020, 2, 2),
                 Gender = Gender.Female,
-                Department = new Department { DepartmentID = 12, DepartmentName = "ITES" },
+                DepartmentID = 112,
                 Photopath = "Images/flower2.jpg"
 
             };
